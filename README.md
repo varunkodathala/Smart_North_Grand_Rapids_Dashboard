@@ -1,4 +1,3 @@
-# handover_poc
-Proof of Concept for Handover Reporting running from streamlit
+# Smart North Dashboard
 
-All data is dummy data. However, the feeds are designed to be quickly replicatable from SQL, Excel or any other datafeed
+Traffic and Mobility Visualizations

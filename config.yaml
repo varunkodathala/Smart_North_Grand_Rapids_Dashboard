@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    nikhilak:
+      email: nikhila@vizworld.ai
+      name: Nikhila Kankanala
+      password: $2b$12$8Whmi4aIf3yMWcpPFZ5FqusMMmXa6UqkBTFgRtpM0aMi/vUsfSkJ.
+    prashanth:
+      email: prashanth@vizworld.ai
+      name: Prashanth Pollishetty
+      password: $2b$12$8Whmi4aIf3yMWcpPFZ5FqusMMmXa6UqkBTFgRtpM0aMi/vUsfSkJ.
+    ramtallam:
+      email: sitaram@vizworld.ai
+      name: Sitaram Tallam
+      password: $2b$12$8Whmi4aIf3yMWcpPFZ5FqusMMmXa6UqkBTFgRtpM0aMi/vUsfSkJ.
+    support:
+      email: contact@vizworld.ai
+      name: Vizworld Inc
+      password: $2b$12$8Whmi4aIf3yMWcpPFZ5FqusMMmXa6UqkBTFgRtpM0aMi/vUsfSkJ.
+    varunkodathala:
+      email: varun@vizworld.ai
+      name: Varun Kodathala
+      password: $2b$12$qmE5AfcrGcgnqOAPi4HTo.R0lWrIO3aniMKcc0uCPTt2u/OAyUjlu
+preauthorized:
+  emails:
+  - contact@vizworld.ai
